@@ -1,13 +1,17 @@
 #EXTM3U
 
 #EXTINF:0,SPORT TV 1
-http://78.31.65.171:20000/live/Linhadeacesso/iptvpassword/274.ts
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/274.ts
+#EXTINF:0,SPORT TV 1 (link 2)
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/276.ts
 #EXTINF:0,SPORT TV 2
-http://78.31.65.171:20000/live/Linhadeacesso/iptvpassword/242.ts
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/242.ts
 #EXTINF:0,SPORT TV 3
-http://78.31.65.171:20000/live/Linhadeacesso/iptvpassword/243.ts
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/243.ts
 #EXTINF:0,BENFICA TV 1
-http://78.31.65.171:20000/live/Linhadeacesso/iptvpassword/271.ts
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/271.ts
+#EXTINF:0,BENFICA TV 2
+http://78.31.65.171:20000/live/iptvtugagratuito/acessoaoscanais/277.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
