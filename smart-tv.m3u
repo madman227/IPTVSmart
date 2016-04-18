@@ -1,29 +1,27 @@
 #EXTM3U
 
 #EXTINF:0,SPORTTV 1
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/1.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/1.ts
 #EXTINF:0,SPORTTV 2
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/2.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/2.ts
 #EXTINF:0,SPORTTV 3
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/3.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/3.ts
 #EXTINF:0,SPORTTV 4
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/4.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/4.ts
 #EXTINF:0,SPORTTV 5
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/5.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/5.ts
 #EXTINF:0,BENFICA TV 1
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/34.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/34.ts
 #EXTINF:0,BENFICA TV 2
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/33.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/33.ts
 #EXTINF:0,TVCINE 1
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/6.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/6.ts
 #EXTINF:0,TVCINE 2
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/7.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/7.ts
 #EXTINF:0,TVCINE 3
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/9.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/9.ts
 #EXTINF:0,TVCINE 4
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/8.ts
-#EXTINF:0,TV SERIES
-http://tugatek.tk:20000/live/obfSmnM4Jc/KNJDdRxFat/32.ts
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/8.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
