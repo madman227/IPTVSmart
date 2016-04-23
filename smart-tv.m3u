@@ -22,6 +22,8 @@ http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/7.ts
 http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/9.ts
 #EXTINF:0,TVCINE 4
 http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/8.ts
+#EXTINF:0,CANAL HOLLYWOOD
+http://78.31.65.171:20000/live/X6vO3Bk9fW/m6PD19rIAX/10.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
