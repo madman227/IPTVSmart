@@ -1,29 +1,29 @@
 #EXTM3U
 
 #EXTINF:0,SPORTTV 1
-http://78.31.65.171:20000/live/vertv/vertv/1.ts
+http://78.31.65.171:20000/live/nova/nova/1.ts
 #EXTINF:0,SPORTTV 2
-http://78.31.65.171:20000/live/vertv/vertv/2.ts
+http://78.31.65.171:20000/live/nova/nova/2.ts
 #EXTINF:0,SPORTTV 3
-http://78.31.65.171:20000/live/vertv/vertv/3.ts
+http://78.31.65.171:20000/live/nova/nova/3.ts
 #EXTINF:0,SPORTTV 4
-http://78.31.65.171:20000/live/vertv/vertv/4.ts
+http://78.31.65.171:20000/live/nova/nova/4.ts
 #EXTINF:0,SPORTTV 5
-http://78.31.65.171:20000/live/vertv/vertv/5.ts
+http://78.31.65.171:20000/live/nova/nova/5.ts
 #EXTINF:0,BENFICA TV 1
-http://78.31.65.171:20000/live/vertv/vertv/34.ts
+http://78.31.65.171:20000/live/nova/nova/34.ts
 #EXTINF:0,BENFICA TV 2
-http://78.31.65.171:20000/live/vertv/vertv/33.ts
+http://78.31.65.171:20000/live/nova/nova/33.ts
 #EXTINF:0,TVCINE 1
-http://78.31.65.171:20000/live/vertv/vertv/6.ts
+http://78.31.65.171:20000/live/nova/nova/6.ts
 #EXTINF:0,TVCINE 2
-http://78.31.65.171:20000/live/vertv/vertv/7.ts
+http://78.31.65.171:20000/live/nova/nova/7.ts
 #EXTINF:0,TVCINE 3
-http://78.31.65.171:20000/live/vertv/vertv/9.ts
+http://78.31.65.171:20000/live/nova/nova/9.ts
 #EXTINF:0,TVCINE 4
-http://78.31.65.171:20000/live/vertv/vertv/8.ts
+http://78.31.65.171:20000/live/nova/nova/8.ts
 #EXTINF:0,CANAL HOLLYWOOD
-http://78.31.65.171:20000/live/vertv/vertv/10.ts
+http://78.31.65.171:20000/live/nova/nova/10.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
