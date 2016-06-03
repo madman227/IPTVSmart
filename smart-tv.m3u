@@ -1,11 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,SPORTTV 1
-http://78.31.65.171:20000/live/nova/nova/1.ts
-#EXTINF:0,BENFICA TV 1
-http://78.31.65.171:20000/live/nova/nova/34.ts
-#EXTINF:0,BENFICA TV 2
-http://78.31.65.171:20000/live/nova/nova/33.ts
+http://91.134.141.252:20000/live/Eu344K3BeK/6cf3AfdvDu/1.ts
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
