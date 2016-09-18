@@ -45,8 +45,6 @@ http://31.204.153.115:8081/live/globok/playlist.m3u8
 http://83.78.191.43:3052/
 #EXTINF:-1,A BOLA TV
 http://83.78.191.43:3000/
-#EXTINF:-1,BTV
-http://109.123.116.36:8088/live/benfieux/playlist.m3u8
 #EXTINF:-1,EUROSPORT 1
 http://83.78.191.43:3019/
 #EXTINF:-1,EUROSPORT 2
@@ -63,10 +61,6 @@ http://83.78.191.43:3048
 http://83.78.191.43:3063/
 #EXTINF:-1,SPORT TV 4
 http://83.78.191.43:3049/
-#EXTINF:-1,SPORT TV 5
-http://163.172.170.33:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDI6NDQ6NTAgUE0maGFzaF92YWx1ZT11d2g0ZVl3RlQrU1pwQVc1RUZqbDZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTkuNjAmc3RybV9sZW49MTY=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
-#EXTINF:-1,SPORTING TV
-http://85.17.20.69:8088/live/sporiherdz/playlist.m3u8?id=251856&pk=dcbf46aeff5bbea5372251eb2b8fb2a8116eb021ce9aad03efb6d0a5b98fa82a
 #EXTINF:-1,CACAVISION
 http://83.78.191.43:3004/
 #EXTINF:-1,BABY TV
@@ -81,20 +75,12 @@ http://83.78.191.43:3044/
 http://83.78.191.43:3002/
 #EXTINF:-1,AXN
 http://83.78.191.43:3065/
-#EXTINF:-1,AXN WHITE
-http://5.63.149.236:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1,CINEMUNDO
 http://83.78.191.43:3011/
 #EXTINF:-1,FOX
 http://83.78.191.43:3021/
 #EXTINF:-1,FOX COMEDY
 http://83.78.191.43:3020/
-#EXTINF:-1,FOX CRIME
-http://178.162.199.138:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
-#EXTINF:-1,FOX LIFE
-http://46.165.251.98:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
-#EXTINF:-1,FOX MOVIES
-http://146.185.16.60:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702 
 #EXTINF:-1,HOLLYWOOD
 http://83.78.191.43:3025/
 #EXTINF:-1,TV CINE 1
@@ -109,8 +95,6 @@ http://83.78.191.43:3056/
 http://83.78.191.43:3059/
 #EXTINF:-1,SYFY
 http://83.78.191.43:3050/
-#EXTINF:-1,DISCOVERY CHANNEL
-http://178.162.199.155:8088/live/discoveryx/playlist.m3u8?id=84775&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
 #EXTINF:-1,HISTORIA
 http://83.78.191.43:3024/
 #EXTINF:-1,NAT GEO CHANNEL
@@ -137,14 +121,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 http://109.227.106.217:12345/udp/239.255.250.88:1234
 #EXTINF:-1,VH1 CLASSIC
 http://109.227.106.217:12345/udp/239.255.250.89:1234
-#EXTINF:-1,BAND
-http://163.172.39.45/loadbalance/agua1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE2IDE6NDA6MDUgUE0maGFzaF92YWx1ZT1TN1E4bys4L3N6R0ZqTHBwVmNiNzlBPT0mdmFsaWRtaW51dGVzPTE=|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36  
 #EXTINF:-1,REDE TV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8  
 #EXTINF:-1,SBT
 http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-#EXTINF:-1,TPA INTERNACIONAL
-http://api.new.livestream.com/accounts/1181452/events/5141181/broadcasts/135587019.m3u8?dw=100&hdnea=st=1474205949~exp=1474207749~acl=/i/1181452_5141181_lsix05p8t4pf5qilevp_1@305594/*~hmac=fd2d8ef801d5187f1330288e73e87f6ce3151df3b3f0de55baf6f8e1f7d79728|headers|User-Agent=iPhone  
 #EXTINF:-1,TV GALICIA
 http://media3.crtvg.es/live/tvge/chunklist.m3u8
 
