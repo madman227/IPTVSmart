@@ -1,7 +1,168 @@
 #EXTM3U
-
-#EXTINF:0,SPORTTV 1
-http://91.134.141.252:20000/live/Eu344K3BeK/6cf3AfdvDu/1.ts
+#EXTINF:-1,RTP 1
+http://83.78.191.43:3038/
+#EXTINF:-1,RTP 2
+http://83.78.191.43:3039/
+#EXTINF:-1,SIC
+http://83.78.191.43:3042
+#EXTINF:-1,TVI
+http://83.78.191.43:3017/
+#EXTINF:-1,PORTO CANAL
+http://83.78.191.43:3034
+#EXTINF:-1,RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1,RTP AFRICA
+http://83.78.191.43:3041/
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1,CANCAO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,CMTV
+http://83.78.191.43:3012/
+#EXTINF:-1,ETV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+#EXTINF:-1,FRANCE 24 (IN)
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,RTP 3
+http://83.78.191.43:3040/
+#EXTINF:-1,SIC NOTICIAS
+http://83.78.191.43:3045/
+#EXTINF:-1,TVI 24
+http://83.78.191.43:3057/
+#EXTINF:-1,AR TV
+http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8  
+#EXTINF:-1,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,FOX NEWS
+http://83.78.191.43:3022/
+#EXTINF:-1,RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+#EXTINF:-1,E!
+http://83.78.191.43:3018/
+#EXTINF:-1,RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1,SIC CARAS
+http://83.78.191.43:3043/
+#EXTINF:-1,SIC MULHER
+http://5.63.149.236:8088/live/sicm02/playlist.m3u8?id=85250&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1,SIC RADICAL
+http://83.78.191.43:3046/
+#EXTINF:-1,TVI FICCAO
+http://83.78.191.43:3058/
+#EXTINF:-1,TVI REALITY
+http://178.162.194.34:8088/live/ss6estreia/playlist.m3u8?id=252650&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5  
+#EXTINF:-1,GLOBO PORTUGAL
+http://31.204.153.115:8081/live/globok/playlist.m3u8
+#EXTINF:-1,RECORD
+http://83.78.191.43:3052/
+#EXTINF:-1,A BOLA TV
+http://83.78.191.43:3000/
+#EXTINF:-1,BTV
+http://109.123.116.36:8088/live/benfieux/playlist.m3u8?id=251853&pk=5557205e6b08d056689a0221fb3f573a082bd0d53c89052109f5516cc4b785d5
+#EXTINF:-1,EUROSPORT 1
+http://83.78.191.43:3019/
+#EXTINF:-1,EUROSPORT 2
+http://83.78.191.43:3019
+#EXTINF:-1,KOMBAT SPORT
+http://83.78.191.43:3027/
+#EXTINF:-1,MOTORS TV
+http://83.78.191.43:3031/
+#EXTINF:-1,SPORT TV 1
+http://83.78.191.43:3047/
+#EXTINF:-1,SPORT TV 2
+http://83.78.191.43:3048
+#EXTINF:-1,SPORT TV 3
+http://83.78.191.43:3063/
+#EXTINF:-1,SPORT TV 4
+http://83.78.191.43:3049/
+#EXTINF:-1,SPORT TV 5
+http://163.172.170.33:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDI6NDQ6NTAgUE0maGFzaF92YWx1ZT11d2g0ZVl3RlQrU1pwQVc1RUZqbDZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE0MS4xMDEuOTkuNjAmc3RybV9sZW49MTY=|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+#EXTINF:-1,SPORTING TV
+http://85.17.20.69:8088/live/sporiherdz/playlist.m3u8?id=251856&pk=dcbf46aeff5bbea5372251eb2b8fb2a8116eb021ce9aad03efb6d0a5b98fa82a
+#EXTINF:-1,CACAVISION
+http://83.78.191.43:3004/
+#EXTINF:-1,BABY TV
+http://83.78.191.43:3066/
+#EXTINF:-1,CANAL PANDA
+http://83.78.191.43:3005/
+#EXTINF:-1,JIMJAM
+http://83.78.191.43:3026/
+#EXTINF:-1,SIC K
+http://83.78.191.43:3044/
+#EXTINF:-1,AMC
+http://83.78.191.43:3002/
+#EXTINF:-1,AXN
+http://83.78.191.43:3065/
+#EXTINF:-1,AXN WHITE
+http://5.63.149.236:8088/live/axnwhitex/playlist.m3u8?id=84774&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1,CINEMUNDO
+http://83.78.191.43:3011/
+#EXTINF:-1,FOX
+http://83.78.191.43:3021/
+#EXTINF:-1,FOX COMEDY
+http://83.78.191.43:3020/
+#EXTINF:-1,FOX CRIME
+http://178.162.199.138:8088/live/foxcrimex/playlist.m3u8?id=84766&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1,FOX LIFE
+http://46.165.251.98:8088/stream/foxlifea/playlist.m3u8?id=19709&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1,FOX MOVIES
+http://146.185.16.60:8088/live/sical/playlist.m3u8?id=24913&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702 
+#EXTINF:-1,HOLLYWOOD
+http://83.78.191.43:3025/
+#EXTINF:-1,TV CINE 1
+http://83.78.191.43:3053/
+#EXTINF:-1,TV CINE 2
+http://83.78.191.43:3054/
+#EXTINF:-1,TV CINE 3
+http://83.78.191.43:3055/
+#EXTINF:-1,TV CINE 4
+http://83.78.191.43:3056/
+#EXTINF:-1,TV SERIES
+http://83.78.191.43:3059/
+#EXTINF:-1,SYFY
+http://83.78.191.43:3050/
+#EXTINF:-1,DISCOVERY CHANNEL
+http://178.162.199.155:8088/live/discoveryx/playlist.m3u8?id=84775&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1,HISTORIA
+http://83.78.191.43:3024/
+#EXTINF:-1,NAT GEO CHANNEL
+http://83.78.191.43:3062/
+#EXTINF:-1,ODISSEIA
+http://83.78.191.43:3032/
+#EXTINF:-1,M6 MUSIQUE
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1,MCM POP
+http://83.78.191.43:3028/
+#EXTINF:-1,MTV DANCE
+http://109.227.106.217:12345/udp/239.255.250.76:1234
+#EXTINF:-1,MTV HITS
+http://94.74.65.100:19123/ott/64:1122
+#EXTINF:-1,MTV PORTUGAL
+http://83.78.191.43:3067/
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,VH1
+http://109.227.106.217:12345/udp/239.255.250.88:1234
+#EXTINF:-1,VH1 CLASSIC
+http://109.227.106.217:12345/udp/239.255.250.89:1234
+#EXTINF:-1,BAND
+http://163.172.39.45/loadbalance/agua1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE2IDE6NDA6MDUgUE0maGFzaF92YWx1ZT1TN1E4bys4L3N6R0ZqTHBwVmNiNzlBPT0mdmFsaWRtaW51dGVzPTE=|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36  
+#EXTINF:-1,REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8  
+#EXTINF:-1,SBT
+http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://api.new.livestream.com/accounts/1181452/events/5141181/broadcasts/135587019.m3u8?dw=100&hdnea=st=1474205949~exp=1474207749~acl=/i/1181452_5141181_lsix05p8t4pf5qilevp_1@305594/*~hmac=fd2d8ef801d5187f1330288e73e87f6ce3151df3b3f0de55baf6f8e1f7d79728|headers|User-Agent=iPhone  
+#EXTINF:-1,TV GALICIA
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
 
 #EXTINF:-1,Telekanal
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
