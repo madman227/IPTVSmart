@@ -9,14 +9,8 @@ http://83.78.191.43:3042
 http://83.78.191.43:3017/
 #EXTINF:-1,PORTO CANAL
 http://83.78.191.43:3034
-#EXTINF:-1,RTP ACORES
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1,RTP AFRICA
 http://83.78.191.43:3041/
-#EXTINF:-1,RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
-#EXTINF:-1,RTP MADEIRA
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
 #EXTINF:-1,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,CMTV
