@@ -128,8 +128,8 @@ http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
 #EXTINF:-1,TV GALICIA
 http://media3.crtvg.es/live/tvge/chunklist.m3u8
 
-#EXTINF:-1,Telekanal
-http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1,Telekanal Zvezda
+http://edge.kmen-ltd.com:7022/live/ahmed-alfaqeh/gfgyhg1323565/3032.ts
 #EXTINF:-1,Sport italia
 http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #EXTINF:-1,Viasat Sport
