@@ -35,6 +35,10 @@ http://83.78.191.43:3045/
 http://83.78.191.43:3057/
 #EXTINF:-1,RTP AFRICA
 http://83.78.191.43:3041/
+
+#EXTINF:-1,Venus
+http://83.78.191.43:3060/
+
 #EXTINF:-1,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,CMTV
