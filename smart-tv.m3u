@@ -35,23 +35,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 #EXTINF:-1,Nbc Sports Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,Kaz Sport
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1,Pac 12
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Pac 12 Arizona
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,Pac 12 Bay Area
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,Pac 12 Los Angeles
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1,Pac 12 Mountain
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,Pac 12 Oregon
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,Pac 12 Washington
-http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1,BS TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8
 #EXTINF:-1,100 Live Sport
@@ -84,7 +67,7 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,TVE 24H
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 #EXTINF:-1,TravelTv
-rtmp://87.106.219.140:1935/live/myStream_2
+http://62.210.162.88:80/live/ES120/194804032016/1754.ts
 #EXTINF:-1,Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
 #EXTINF:-1,LaSexta
