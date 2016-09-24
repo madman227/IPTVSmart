@@ -35,20 +35,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
 #EXTINF:-1,Nbc Sports Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,Sport Time TV 1
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,Sport Time TV 2
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1,Sport Time TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200	
-#EXTINF:-1,Sport Time TV 4
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200	
-#EXTINF:-1,Sport Time TV 5
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200	
-#EXTINF:-1,Sport Time TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200		
-#EXTINF:-1,Sport Time TV 7
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200	
+
 #EXTINF:-1,Kaz Sport
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 #EXTINF:-1,Pac 12
