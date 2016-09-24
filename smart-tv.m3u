@@ -2,9 +2,9 @@
 #EXTINF:-1,SPORT TV 1
 http://83.78.191.43:3099/
 
-#EXTINF:-1,CANCAO NOVA
+#EXTINF:-1,Cancao Nova
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,ETV
+#EXTINF:-1,Economico TV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1,FRANCE 24 (IN)
 http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -12,72 +12,14 @@ http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8  
 #EXTINF:-1,BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,FOX NEWS
-http://83.78.191.43:3022/
-#EXTINF:-1,E!
-http://83.78.191.43:3018/
-#EXTINF:-1,SIC CARAS
-http://83.78.191.43:3043/
-#EXTINF:-1,SIC RADICAL
-http://83.78.191.43:3046/
-#EXTINF:-1,TVI FICCAO
-http://83.78.191.43:3058/
 #EXTINF:-1,GLOBO PORTUGAL
 http://31.204.153.115:8081/live/globok/playlist.m3u8
-#EXTINF:-1,RECORD
-http://83.78.191.43:3052/
-#EXTINF:-1,A BOLA TV
-http://83.78.191.43:3000/
-#EXTINF:-1,EUROSPORT 1
-http://83.78.191.43:3019/
-#EXTINF:-1,EUROSPORT 2
-http://83.78.191.43:3019
-#EXTINF:-1,KOMBAT SPORT
-http://83.78.191.43:3027/
-#EXTINF:-1,MOTORS TV
-http://83.78.191.43:3031/
-#EXTINF:-1,CACAVISION
-http://83.78.191.43:3004/
-#EXTINF:-1,Real Madris TV
-http://83.78.191.43:3036/
-#EXTINF:-1,BABY TV
-http://83.78.191.43:3066/
-#EXTINF:-1,CANAL PANDA
-http://83.78.191.43:3005/
-#EXTINF:-1,JIMJAM
-http://83.78.191.43:3026/
-#EXTINF:-1,SIC K
-http://83.78.191.43:3044/
-#EXTINF:-1,AMC
-http://83.78.191.43:3002/
-#EXTINF:-1,AXN
-http://83.78.191.43:3065/
-#EXTINF:-1,CINEMUNDO
-http://83.78.191.43:3011/
-#EXTINF:-1,FOX
-http://83.78.191.43:3021/
-#EXTINF:-1,FOX COMEDY
-http://83.78.191.43:3020/
-#EXTINF:-1,HOLLYWOOD
-http://83.78.191.43:3025/
-#EXTINF:-1,SYFY
-http://83.78.191.43:3050/
-#EXTINF:-1,HISTORIA
-http://83.78.191.43:3024/
-#EXTINF:-1,NAT GEO CHANNEL
-http://83.78.191.43:3062/
-#EXTINF:-1,ODISSEIA
-http://83.78.191.43:3032/
 #EXTINF:-1,M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,MCM POP
-http://83.78.191.43:3028/
 #EXTINF:-1,MTV DANCE
 http://109.227.106.217:12345/udp/239.255.250.76:1234
 #EXTINF:-1,MTV HITS
 http://94.74.65.100:19123/ott/64:1122
-#EXTINF:-1,MTV PORTUGAL
-http://83.78.191.43:3067/
 #EXTINF:-1,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2
