@@ -1,50 +1,9 @@
 #EXTM3U
 #EXTINF:-1,SPORT TV 1
 http://83.78.191.43:3099/
-#EXTINF:-1,SPORT TV 2
-http://83.78.191.43:3048
-#EXTINF:-1,SPORT TV 3
-http://83.78.191.43:3063/
-#EXTINF:-1,SPORT TV 4
-http://83.78.191.43:3049/
-#EXTINF:-1,TV CINE 1
-http://83.78.191.43:3053/
-#EXTINF:-1,TV CINE 2
-http://83.78.191.43:3054/
-#EXTINF:-1,TV CINE 3
-http://83.78.191.43:3055/
-#EXTINF:-1,TV CINE 4
-http://83.78.191.43:3056/
-#EXTINF:-1,TV SERIES
-http://83.78.191.43:3059/
-#EXTINF:-1,RTP 1
-http://83.78.191.43:3038/
-#EXTINF:-1,RTP 2
-http://83.78.191.43:3039/
-#EXTINF:-1,SIC
-http://83.78.191.43:3042
-#EXTINF:-1,TVI
-http://83.78.191.43:3017/
-#EXTINF:-1,PORTO CANAL
-http://83.78.191.43:3034
-#EXTINF:-1,RTP 3
-http://83.78.191.43:3040/
-#EXTINF:-1,SIC NOTICIAS
-http://83.78.191.43:3045/
-#EXTINF:-1,TVI 24
-http://83.78.191.43:3057/
-#EXTINF:-1,RTP AFRICA
-http://83.78.191.43:3041/
-
-#EXTINF:-1,Playboy TV
-http://83.78.191.43:3033/
-#EXTINF:-1,Venus
-http://83.78.191.43:3060/
 
 #EXTINF:-1,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,CMTV
-http://83.78.191.43:3012/
 #EXTINF:-1,ETV
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 #EXTINF:-1,FRANCE 24 (IN)
