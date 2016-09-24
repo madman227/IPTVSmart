@@ -12,49 +12,15 @@ http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8  
 #EXTINF:-1,BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,GLOBO PORTUGAL
-http://31.204.153.115:8081/live/globok/playlist.m3u8
 #EXTINF:-1,M6 MUSIQUE
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1,MTV DANCE
-http://109.227.106.217:12345/udp/239.255.250.76:1234
 #EXTINF:-1,MTV HITS
 http://94.74.65.100:19123/ott/64:1122
-#EXTINF:-1,VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,VH1
-http://109.227.106.217:12345/udp/239.255.250.88:1234
-#EXTINF:-1,VH1 CLASSIC
-http://109.227.106.217:12345/udp/239.255.250.89:1234
-#EXTINF:-1,REDE TV
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8  
 #EXTINF:-1,SBT
 http://srv6.zoeweb.tv:1935/z343-live/stream/livestream.m3u8
-#EXTINF:-1,TV GALICIA
-http://media3.crtvg.es/live/tvge/chunklist.m3u8
 
-#EXTINF:-1,Sport italia
-http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
-#EXTINF:-1,Viasat Sport
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1,FOOTBALL REPORT
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8
 #EXTINF:-1,SPORTS USA
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1,TYC SPORTS
-http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
-#EXTINF:-1,Spor TV
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:0, Global TV
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8
-#EXTINF:-1,M6
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8?
-#EXTINF:-1,M6 Music Hits
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:-1,NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1,Sky TG24
