@@ -1,6 +1,100 @@
 #EXTM3U
+#EXTINF:-1,A Bola TV
+http://83.78.191.43:4500/
+#EXTINF:-1,AMC
+http://83.78.191.43:4502/
+#EXTINF:-1,Canal Panda
+http://83.78.191.43:4505/
+#EXTINF:-1,Cinemundo
+http://83.78.191.43:4511/
+#EXTINF:-1,CMTV
+http://83.78.191.43:4512/
+#EXTINF:-1,Discovery Channel
+http://83.78.191.43:4515/
+#EXTINF:-1,E! Entertainment
+http://83.78.191.43:4518/
+#EXTINF:-1,Eurosport 2
+http://83.78.191.43:4519/
+#EXTINF:-1,Fox Comedy
+http://83.78.191.43:4520/
+#EXTINF:-1,FOX HD
+http://83.78.191.43:4521/
+#EXTINF:-1,FOX News
+http://83.78.191.43:4522/
+#EXTINF:-1,Historia
+http://83.78.191.43:4524/
+#EXTINF:-1,Hollywood
+http://83.78.191.43:4525/
+#EXTINF:-1,Jim Jam
+http://83.78.191.43:4526/
+#EXTINF:-1,Kombat Sport
+http://83.78.191.43:4527/
+#EXTINF:-1,MCM POP
+http://83.78.191.43:4528/
+#EXTINF:-1,Motors TV
+http://83.78.191.43:4531/
+#EXTINF:-1,Odisseia
+http://83.78.191.43:4532/
+#EXTINF:-1,Playboy TV
+http://83.78.191.43:4533/
+#EXTINF:-1,Porto Canal
+http://83.78.191.43:4534/
+#EXTINF:-1,Real Madrid TV
+http://83.78.191.43:4536/
+#EXTINF:-1,RTP 2
+http://83.78.191.43:4539/
+#EXTINF:-1,RTP 3
+http://83.78.191.43:4540/
+#EXTINF:-1,RTP Africa
+http://83.78.191.43:4541/
+#EXTINF:-1,SIC Caras
+http://83.78.191.43:4543/
+#EXTINF:-1,SIC K
+http://83.78.191.43:4544/
+#EXTINF:-1,SIC Noticias
+http://83.78.191.43:4545/
+#EXTINF:-1,SIC Radical
+http://83.78.191.43:4546/
+#EXTINF:-1,SPORT TV 2
+http://83.78.191.43:4548/
+#EXTINF:-1,SPORT TV 4
+http://83.78.191.43:4549/
+#EXTINF:-1,Syfy
+http://83.78.191.43:4550/
+#EXTINF:-1,TV Record
+http://83.78.191.43:4552/
+#EXTINF:-1,TVCine 1
+http://83.78.191.43:4553/
+#EXTINF:-1,TVCine 2
+http://83.78.191.43:4554/
+#EXTINF:-1,TVCine 3
+http://83.78.191.43:4555/
+#EXTINF:-1,TVCine 4
+http://83.78.191.43:4556/
+#EXTINF:-1,TVI 24
+http://83.78.191.43:4557/
+#EXTINF:-1,TVSeries
+http://83.78.191.43:4559/
+#EXTINF:-1,Venus
+http://83.78.191.43:4560/
+#EXTINF:-1,National Geographic HD
+http://83.78.191.43:4562/
+#EXTINF:-1,SPORT TV 3
+http://83.78.191.43:4563/
+#EXTINF:-1,AXN HD
+http://83.78.191.43:4565/
+#EXTINF:-1,Baby TV
+http://83.78.191.43:4566/
+#EXTINF:-1,MTV Portugal
+http://83.78.191.43:4567/
 #EXTINF:-1,SPORT TV 1
-http://83.78.191.43:3099/
+http://83.78.191.43:4580/
+#EXTINF:-1,TVI Ficcao
+http://83.78.191.43:4587/
+#EXTINF:-1,RTP 1
+http://83.78.191.43:4588/
+#EXTINF:-1,TVI
+http://83.78.191.43:4600/
 
 #EXTINF:-1,Cancao Nova
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
